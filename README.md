@@ -2,7 +2,7 @@
 
 **Submitted by Merck & Co., Inc.** 
 
-**To see the full Kaggle submission and notebook, click [here](https://www.kaggle.com/weilinmeng/human-ai-co-op-toward-a-useful-vaccines-summary/)
+**To see the full Kaggle submission and notebook, click [here](https://www.kaggle.com/weilinmeng/human-ai-co-op-toward-a-useful-vaccines-summary/)**
 
 The [CORD-19 Research Database](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) is a growing collection of 50k+ scientific papers relating to information on variants of coronavirus. This enormous dataset poses challenges in terms of finding the right kind of information quickly for the purpose of finding useful and actionable information on today's COVID-19 pandemic. 
 
