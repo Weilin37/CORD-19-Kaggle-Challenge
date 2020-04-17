@@ -2,7 +2,9 @@
 
 **Submitted by Merck & Co., Inc.** 
 
-The CORD-19 Research Database is a growing collection of 50k+ scientific papers relating to information on variants of coronavirus. This enormous dataset poses challenges in terms of finding the right kind of information quickly for the purpose of finding useful and actionable information on today's COVID-19 pandemic. 
+**To see the full Kaggle submission and notebook, click [here](https://www.kaggle.com/weilinmeng/human-ai-co-op-toward-a-useful-vaccines-summary/)
+
+The [CORD-19 Research Database](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge) is a growing collection of 50k+ scientific papers relating to information on variants of coronavirus. This enormous dataset poses challenges in terms of finding the right kind of information quickly for the purpose of finding useful and actionable information on today's COVID-19 pandemic. 
 
 Here we focus efforts on the "Vaccines" task due to our specific interests in helping to find the best treatment possible and due to this task being particularly difficult compared to most others because of the need for domain expertise and knowledge. However, we note that our approach is applicable to all tasks.
 
